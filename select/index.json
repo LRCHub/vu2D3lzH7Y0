@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "What is justice?",
+  "base_artist": "BAND-MAID",
+  "createdAt": "2025-12-05T02:43:52.524553Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What is justice?",
+      "artist": "BAND-MAID",
+      "has_synced": true,
+      "path": "select/01_What_is_justice_BAND-MAID.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "What is justice?",
+      "artist": "BAND-MAID",
+      "has_synced": false,
+      "path": "select/pl_01_What_is_justice_BAND-MAID.txt"
+    }
+  ]
+}
